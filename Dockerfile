@@ -1,5 +1,5 @@
-# Use NodeJS 10
-FROM node:10
+# Use NodeJS 12
+FROM node:12
 
 # Set the Docker working director as /usr/src/app
 # Copy everything in this machines directory to Docker's /usr/src/app

@@ -1,7 +1,7 @@
 Google Cloud Run example
 =====================
 
-A quick start guide to [Google Cloud Run](https://cloud.google.com/run/) using Node.js 10.
+A quick start guide to [Google Cloud Run](https://cloud.google.com/run/) using Node.js 12.
 
 Simply clone this repo and follow the instructions.
 
